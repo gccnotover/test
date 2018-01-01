@@ -1,6 +1,5 @@
-public class A
-
-
-
-
-
+public class A{
+  public
+  
+  
+}
